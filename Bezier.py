@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-__author__ = 'XuJunjie'
+__author__ = ‘Gods_Dusk’
 
 import math
 from pylab import *#pylab.pinv
